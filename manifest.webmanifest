@@ -1,0 +1,25 @@
+{
+  "name": "Keuangan Pribadi / 個人財務",
+  "short_name": "Keuangan",
+  "description": "Catatan keuangan pribadi bilingual Indonesia dan 繁體中文",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#2563eb",
+  "lang": "id",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
